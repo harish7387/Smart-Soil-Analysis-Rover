@@ -42,9 +42,9 @@ We extend our sincere gratitude to our guide:
 
 ---
 
-## 👥 Team Members  
+## 👥 Team Members 
+- **Y. Harish Reddy** – 225U1A04C6 
 - **K. Chandra Shekar** – 235U5A0409  
-- **Y. Harish Reddy** – 225U1A04C6  
 - **B. Kruthika** – 235U5A0402  
 - **Ch. Poojitha** – 235U5A0404  
 
